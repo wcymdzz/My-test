@@ -1,0 +1,5 @@
+CREATE TABLE tb_user(
+	UName   varchar(50),
+	Pwd		varchar(50)
+);
+INSERT INTO tb_user(UName,Pwd)VALUES("test","123");
